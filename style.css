@@ -1,0 +1,55 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#captureimage , #predictgesture
+{
+    border-radius: 10px;
+    background-color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+letter-spacing: 5px;
+
+}
+
+.emoji
+{
+  font-size:48px;
+}
+#heading
+{
+
+letter-spacing: 10px;
+border-radius: 10px;
+}
+ #webcamlabel {
+background-color: yellowgreen;
+border-radius: 10px;
+letter-spacing: 5px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#predictionlabel {
+    background-color: yellowgreen;
+    border-radius: 10px;
+    letter-spacing: 5px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+    }
+
+    #snapshotlabel {
+        background-color: yellowgreen;
+        border-radius: 10px;
+        letter-spacing: 5px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+        }
